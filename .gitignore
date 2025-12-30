@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Environment Variables
+.env
+
+# Virtual Environment
+env2/
+
+# py file
+student_performance.ipynb
+
+# csv file
+Student_performance.csv
