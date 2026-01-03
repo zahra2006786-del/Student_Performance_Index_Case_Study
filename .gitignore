@@ -10,3 +10,6 @@ __pycache__/
 
 # Streamlit
 .streamlit/
+
+# IPYNB file
+student_performance_index.ipynb
